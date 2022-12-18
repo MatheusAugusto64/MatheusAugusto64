@@ -1,7 +1,7 @@
 ### Seja Bem-Vindo(a) 👋
 
 
-- 📚 Estudando HTML e CSS
+- 📚 Estudando HTML, CSS e JavaScript
 - 💬 Contato: mateusa.reis@hotmail.com
 
 <div align="center">
