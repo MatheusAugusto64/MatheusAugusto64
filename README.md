@@ -1,7 +1,7 @@
 ### Welcome! 👋
 
 
-- 📚 Studying HTML, CSS, JavaScript, TypeScript, SAAS, BootStrap, React, Next.JS, Node JS e SQL
+- 📚 Studying HTML, CSS, JavaScript, TypeScript, SAAS, BootStrap, React, Next.JS, Node JS and SQL
 - 💬 Contact: mateusa.reis@hotmail.com
 
 <div align="center">
