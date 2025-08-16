@@ -1,8 +1,8 @@
-### Seja Bem-Vindo(a) 👋
+### Welcome! 👋
 
 
-- 📚 Estudando HTML, CSS, JavaScript, TypeScript, SAAS, BootStrap, React, Next.JS, Node JS e SQL
-- 💬 Contato: mateusa.reis@hotmail.com
+- 📚 Studying HTML, CSS, JavaScript, TypeScript, SAAS, BootStrap, React, Next.JS, Node JS e SQL
+- 💬 Contact: mateusa.reis@hotmail.com
 
 <div align="center">
   <a href="https://github.com/MatheusAugusto64">
